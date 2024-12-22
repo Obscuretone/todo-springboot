@@ -33,3 +33,5 @@ Thumbs.db
 *.swn
 !**/*.jar
 .env
+
+.vscode
